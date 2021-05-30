@@ -21,10 +21,10 @@
 
         </div>
         <div class="h-72 lg:h-full lg:w-1/2 xl:w-2/3 bg-gray-400">
-            <div class="absolute top-10 right-10">
+            <div class="absolute top-10 right-5 lg:right-10">
                 <div class="text-white flex justify-center items-center">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                        <path class="text-black lg:text-white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
                       </svg>
                 </div>
             </div>
