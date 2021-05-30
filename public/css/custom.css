@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&display=swap');
+
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(/fonts/Gilroy-ExtraBold.otf);
+    font-style: normal;
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Fransico';
+    src: url(/fonts/SF-Pro-Display-Regular.otf);
+    font-style: normal;
+    font-weight: 500;
+}
+body, p, li {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.2px !important;
+    line-height: 1.7;
+    text-rendering: optimizeLegibility;
+}
+
+h1, h2 {
+    font-family: Gilroy;
+    font-weight: 800;
+}
+.fold {
+    height: 90vh;
+}
+.fold-bottom {
+    height: 10vh;
+}
+
+@media only screen and (max-width: 600px) {
+    .fold, .fold-bottom  {
+        height: 100%;
+    }
+
+}
