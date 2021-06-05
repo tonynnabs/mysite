@@ -8,7 +8,7 @@
             </div>
             <h3 class="mb-5 mt-32 lg:mt-0 lg:ml-10 mx-5 lg:mx-0 text-lg font-bold">Anthony Nnabude</h3>
             <div class="mx-5 lg:mx-0 lg:ml-10 mb-20 xl:mb-0">
-                <h1 class="text-5xl">Front-end Engineer.</h1>
+                <h1 class="text-5xl">Fullstack Developer.</h1>
                 <p class="mt-3">Exceptional creative front end developer with one and half year experience in designing, developing and testing multiple web-based applications with an in-depth understanding of web practices.</p>
                 <ul class="mt-3 flex flex-wrap justify-between items-center">
                     <li><img class="w-10 lg:w-20 filter grayscale" src="/img/laravel.png" alt="Laravel"></li>
