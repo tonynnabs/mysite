@@ -87,7 +87,7 @@
                     </x-skills>
                     <x-skills>
                         <x-slot name="header">Mobile <br> Application</x-slot>
-                        <x-slot name="description"><span class="bg-red-500 text-white rounded-full  py-2 px-3 text-sm">SOON!</span></x-slot>
+                        <x-slot name="description"><span class="bg-red-500 text-white rounded-full  py-2 px-3 text-xs">SOON!</span></x-slot>
                     </x-skills>
 
                 </div>
